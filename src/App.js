@@ -13,6 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>{greeting}</h1>
+        <h1>Test that github work</h1>
         <h1>My midnight snack is {snack()}</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
